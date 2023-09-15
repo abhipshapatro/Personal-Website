@@ -35,13 +35,13 @@ const Work = () => {
                 Realtime Chat Application
               </span>
               <div className="pt-8 text-center">
-                <a href="https://chatie.netlify.app/" target="_blank">
+                <a href="https://tele-chatapp.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a
-                  href="https://github.com/abhipshapatro/Realtime-Chat-App"
+                  href="https://github.com/abhipshapatro/chat_and_notification_feature_codepth"
                   target="_blank"
                 >
                   <button>Code</button>
